@@ -1,0 +1,46 @@
+{
+    "name": "117th Congress",
+    "version": 0,
+    "references": [
+        {
+            "name": "Tommy Tuberville",
+            "platforms": {
+                "Twitter": "TTuberville"
+            },
+            "metadata": {
+                "party": "Republican Party",
+                "state": "Alabama"
+            }
+        },
+        {
+            "name": "Richard Shelby",
+            "platforms": {
+                "Twitter": "SenShelby"
+            },
+            "metadata": {
+                "party": "Republican Party",
+                "state": "Alabama"
+            }
+        },
+        {
+            "name": "Dan Sullivan",
+            "platforms": {
+                "Twitter": "SenDanSullivan"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Alaska"
+            }
+        },
+        {
+            "name": "Lisa Murkowski",
+            "platforms": {
+                "Twitter": "lisamurkowski"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Alaska"
+            }
+        }
+    ]
+}
