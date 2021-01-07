@@ -5,21 +5,28 @@
         {
             "name": "Tommy Tuberville",
             "platforms": {
-                "Twitter": "TTuberville"
+                "Twitter": {
+                    "official": "SenTuberville",
+                    "personal": "TTuberville"
+                }
             },
             "metadata": {
-                "party": "Republican Party",
-                "state": "Alabama"
+                "party": "Republican",
+                "state": "Alabama",
+                "chamber": "Senate"
             }
         },
         {
             "name": "Richard Shelby",
             "platforms": {
-                "Twitter": "SenShelby"
+                "Twitter": {
+                    "official": "SenShelby"
+                }
             },
             "metadata": {
-                "party": "Republican Party",
-                "state": "Alabama"
+                "party": "Republican",
+                "state": "Alabama",
+                "chamber": "Senate"
             }
         },
         {
@@ -29,17 +36,1306 @@
             },
             "metadata": {
                 "party": "Republican",
-                "state": "Alaska"
+                "state": "Alaska",
+                "chamber": "Senate"
             }
         },
         {
             "name": "Lisa Murkowski",
             "platforms": {
-                "Twitter": "lisamurkowski"
+                "Twitter": {
+                    "official": "lisamurkowski"
+                }
             },
             "metadata": {
                 "party": "Republican",
-                "state": "Alaska"
+                "state": "Alaska",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Krysten Sinema",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorSinema"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Arizona",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mark Kelly",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenMarkKelly",
+                    "personal": "CaptMarkKelly"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Arizona",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tom Cotton",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenTomCotton",
+                    "personal": "TomCottonAR"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Arkansas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Boozman",
+            "platforms": {
+                "Twitter": {
+                    "official": "JohnBoozman"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Arkansas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Diane Feinstein",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenFeinstein"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "California",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Alex Padilla",
+            "platforms": {
+                "Twitter": {
+                    "official": "AlexPadilla4CA"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "California",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Hickenlooper",
+            "platforms": {
+                "Twitter": {
+                    "official": "Hickenlooper"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Colorado",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Michael Bennet",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorBennet",
+                    "personal": "MichaelBennet"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Colorado",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Chris Murphy",
+            "platforms": {
+                "Twitter": {
+                    "official": "ChrisMurphyCT"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Connecticut",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Richard Blumenthal",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenBlumenthal"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Connecticut",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tom Carper",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorCarper",
+                    "personal": "TomCarperforDE"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Delaware",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Chris Coons",
+            "platforms": {
+                "Twitter": {
+                    "official": "ChrisCoons"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Delaware",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Rick Scott",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenRickScott",
+                    "personal": "ScottforFlorida"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Florida",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Marco Rubio",
+            "platforms": {
+                "Twitter": {
+                    "official": "marcorubio"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Florida",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jon Ossoff",
+            "platforms": {
+                "Twitter": {
+                    "official": "ossoff"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Georgia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Raphael Warnock",
+            "platforms": {
+                "Twitter": {
+                    "official": "ReverendWarnock"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Georgia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mazie Hirono",
+            "platforms": {
+                "Twitter": {
+                    "official": "maziehirono",
+                    "personal": "mazieforhawaii"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Hawaii",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Brian Schatz",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenBrianSchatz",
+                    "personal": "brianschatz"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Hawaii",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jim Risch",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorRisch"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Idaho",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mike Crapo",
+            "platforms": {
+                "Twitter": {
+                    "official": "MikeCrapo"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Idaho",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Dick Durbin",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorDurbin",
+                    "personal": "DickDurbin"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Illinois",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tammy Duckworth",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenDuckworth",
+                    "personal": "tammyduckworth"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Illinois",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mike Braun",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorBraun"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Todd Young",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenToddYoung",
+                    "personal": "ToddYoungIN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Joni Ernst",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJoniErnst",
+                    "personal": "joniernst"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Iowa",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Chuck Grassley",
+            "platforms": {
+                "Twitter": {
+                    "official": "ChuckGrassley"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Iowa",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Roger Marshall",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorMarshall",
+                    "personal": "RogerMarshallMD"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jerry Moran",
+            "platforms": {
+                "Twitter": {
+                    "official": "JerryMoran"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mitch McConnell",
+            "platforms": {
+                "Twitter": {
+                    "official": "senatemajldr"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Rand Paul",
+            "platforms": {
+                "Twitter": {
+                    "official": "RandPaul"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Bill Cassidy",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenBillCassidy",
+                    "personal": "BillCassidy"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Kennedy",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJohnKennedy"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Angus King",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenAngusKing"
+                }
+            },
+            "metadata": {
+                "party": "Independent",
+                "state": "Maine",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Susan Collins",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorCollins"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Maine",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ben Cardin",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorCardin",
+                    "personal": "BenCardinforMD"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Maryland",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Chris Van Hollen",
+            "platforms": {
+                "Twitter": {
+                    "official": "ChrisVanHollen",
+                    "personal": "VanHollenForMD"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Maryland",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Elizabeth Warren",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenWarren",
+                    "personal": "ewarren"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Massachusetts",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ed Markey",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenMarkey",
+                    "personal": "EdMarkey"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Massachusetts",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Debbie Stabenow",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenStabenow",
+                    "personal": "stabenow"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Michigan",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Gary Peters",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenGaryPeters",
+                    "personal": "GaryPeters"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Michigan",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Amy Klobuchar",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenAmyKlobuchar",
+                    "personal": "amyklobuchar"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Minnesota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tina Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenTinaSmith",
+                    "personal": "TinaSmithMN"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Minnesota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Roger Wicker",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorWicker",
+                    "personal": "RogerWicker"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Mississippi",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Cindy Hyde-Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenHydeSmith",
+                    "personal": "cindyhydesmith"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Mississippi",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Josh Hawley",
+            "platforms": {
+                "Twitter": {
+                    "official": "HawleyMO"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Roy Blunt",
+            "platforms": {
+                "Twitter": {
+                    "official": "RoyBlunt"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jon Tester",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorTester"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Montana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Steve Daines",
+            "platforms": {
+                "Twitter": {
+                    "official": "SteveDaines"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Montana",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Deb Fischer",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorFischer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nebraska",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ben Sasse",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenSasse",
+                    "personal": "BenSasse"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nebraska",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jacky Rosen",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJackyRosen"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Nevada",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Catherine Cortez Masto",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenCortezMasto"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Nevada",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jeanne Shaheen",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorShaheen"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Hampshire",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Maggie Hassan",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorHassan"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Hampshire",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Bob Menendez",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorMenendez"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Jersey",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Cory Booker",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenBooker",
+                    "personal": "CoryBooker"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Jersey",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Martin Heinrich",
+            "platforms": {
+                "Twitter": {
+                    "official": "MartinHeinrich"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Mexico",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ben Ray Lujan",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorLujan",
+                    "personal": "benraylujan"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New Mexico",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Kirsten Gillibrand",
+            "platforms": {
+                "Twitter": {
+                    "official": "gillibrandny",
+                    "personal": "SenGillibrand"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New York",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Chuck Schumer",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenSchumer"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "New York",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Thom Tillis",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenThomTillis",
+                    "personal": "ThomTillis"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Richard Burr",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorBurr"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Kevin Cramer",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenKevinCramer",
+                    "personal": "kevincramer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Dakota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Hoeven",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJohnHoeven"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Dakota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Sherrod Brown",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenSherrodBrown",
+                    "personal": "SherrodBrown"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Ohio",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Rob Portman",
+            "platforms": {
+                "Twitter": {
+                    "official": "senrobportman"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jim Inhofe",
+            "platforms": {
+                "Twitter": {
+                    "official": "JimInhofe"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "James Lankford",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorLankford",
+                    "personal": "jameslankford"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jeff Merkley",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJeffMerkley",
+                    "personal": "JeffMerkley"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Oregon",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ron Wyden",
+            "platforms": {
+                "Twitter": {
+                    "official": "RonWyden"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Oregon",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Bob Casey Jr.",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenBobCasey"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Pennsylvania",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Pat Toomey",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenToomey"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Sheldon Whitehouse",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenWhitehouse"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Rhode Island",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Jack Reed",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJackReed"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Rhode Island",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Lindsey Graham",
+            "platforms": {
+                "Twitter": {
+                    "official": "LindseyGrahamSC"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tim Scott",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorTimScott"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mike Rounds",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorRounds"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Dakota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Thune",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJohnThune"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Dakota",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Marsha Blackburn",
+            "platforms": {
+                "Twitter": {
+                    "official": "MarshaBlackburn",
+                    "personal": "MarshaSays"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Bill Hagerty",
+            "platforms": {
+                "Twitter": {
+                    "official": "BillHagertyTN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ted Cruz",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenTedCruz",
+                    "personal": "tedcruz"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Cornyn",
+            "platforms": {
+                "Twitter": "JohnCornyn"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mitt Romney",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorRomney",
+                    "personal": "MittRomney"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mike Lee",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenMikeLee"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Bernie Sanders",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenSanders",
+                    "personal": "BernieSanders"
+                }
+            },
+            "metadata": {
+                "party": "Independent",
+                "state": "Vermont",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Patrick Leahy",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorLeahy"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Vermont",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tim Kaine",
+            "platforms": {
+                "Twitter": {
+                    "official": "timkaine"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Virginia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Mark Warner",
+            "platforms": {
+                "Twitter": {
+                    "official": "MarkWarner"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Virginia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Maria Cantwell",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorCantwell"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Washington",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Patty Murray",
+            "platforms": {
+                "Twitter": {
+                    "official": "PattyMurray"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Washington",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Joe Manchin",
+            "platforms": {
+                "Twitter": {
+                    "official": "Sen_JoeManchin"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "West Virginia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Shelley Moore Capito",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenCapito"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "West Virginia",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Tammy Baldwin",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenatorBaldwin",
+                    "personal": "tammybaldwin"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Wisconsin",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Ron Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenRonJohnson",
+                    "personal": "RonJohnsonWI"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "John Barrasso",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenJohnBarrasso"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wyoming",
+                "chamber": "Senate"
+            }
+        },
+        {
+            "name": "Cynthia Lummis",
+            "platforms": {
+                "Twitter": {
+                    "official": "SenLummis",
+                    "personal": "CynthiaMLummis"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wyoming",
+                "chamber": "Senate"
             }
         }
     ]
