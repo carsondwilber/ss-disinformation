@@ -1435,6 +1435,17 @@
                 "state": "Alabama",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Don Young",
+            "platforms": {
+                "Twitter": "repdonyoung"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Alaska",
+                "chamber": "House"
+            }
         }
     ]
 }
