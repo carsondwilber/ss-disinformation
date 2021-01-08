@@ -1446,6 +1446,136 @@
                 "state": "Alaska",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Tom O'Halleran",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepOHalleran"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 1,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ann Kirkpatrick",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKirkpatrick"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Raul Girjalva",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRaulGrijalva"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 3,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Paul Gosar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGosar",
+                    "personal": "DrPaulGosar"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 4,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Andy Biggs",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAndyBiggsAZ"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 5,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "David Schweikert",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavid"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 6,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ruben Gallego",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRubenGallego",
+                    "personal": "RubenGallego"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Debbie Lesko",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDLesko",
+                    "personal": "DebbieLesko"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 8,
+                "state": "Arizona",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Greg Stanton",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGregStanton",
+                    "personal": "gregstantonaz"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 9,
+                "state": "Arizona",
+                "chamber": "House"
+            }
         }
     ]
 }
