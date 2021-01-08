@@ -1337,6 +1337,104 @@
                 "state": "Wyoming",
                 "chamber": "Senate"
             }
+        },
+        {
+            "name": "Jerry Carl",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJerryCarl"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Barry Moore",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBarryMoore"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 2,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Rogers",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeRogersAL"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 3,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Robert Aderholt",
+            "platforms": {
+                "Twitter": {
+                    "official": "Robert_Aderholt"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 4,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mo Brooks",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMoBrooks"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 5,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Gary Palmer",
+            "platforms": {
+                "Twitter": {
+                    "official": "USRepGaryPalmer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 6,
+                "state": "Alabama",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Terri Sewell",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTerriSewell"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "Alabama",
+                "chamber": "House"
+            }
         }
     ]
 }
