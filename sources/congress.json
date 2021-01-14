@@ -2574,6 +2574,19 @@
                 "state": "Connecticut",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Lisa Blunt Rochester",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLBR"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Delaware",
+                "chamber": "House"
+            }
         }
     ]
 }
