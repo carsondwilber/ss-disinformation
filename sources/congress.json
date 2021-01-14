@@ -2080,7 +2080,7 @@
                 }
             },
             "metadata": {
-                "Party": "Democrat",
+                "party": "Democrat",
                 "district": 31,
                 "state": "California",
                 "chamber": "House"
