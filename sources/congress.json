@@ -2977,6 +2977,207 @@
                 "state": "Florida",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Buddy Carter",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBuddyCarter"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Sanford Bishop",
+            "platforms": {
+                "Twitter": {
+                    "official": "SanfordBishop"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Drew Ferguson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDrewFerguson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 3,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Hank Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHankJohnson"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 4,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Nikema Williams",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepNikema",
+                    "personal": "NikemaWilliams"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 5,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Lucy McBath",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLucyMcBath",
+                    "personal": "lucymcbath"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 6,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Carolyn Bourdeaux",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBourdeaux"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Austin Scott",
+            "platforms": {
+                "Twitter": {
+                    "official": "AustinScottGA08"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 8,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Andrew Clyde",
+            "platforms": {
+                "Twitter": {
+                    "official": "Clyde4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 9,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jody Hice",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongressmanHice",
+                    "personal": "JodyHice"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 10,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Barry Loudermilk",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLoudermilk",
+                    "personal": "standwithbarry"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 11,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Rick Allen",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRickAllen",
+                    "personal": "rickallen"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 12,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "David Scott",
+            "platforms": {
+                "Twitter": {
+                    "official": "repdavidscott"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 13,
+                "state": "Georgia",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Marjorie Taylor Greene",
+            "platforms": {
+                "Twitter": {
+                    "official": "mtgreenee"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 14,
+                "state": "Georgia",
+                "chamber": "House"
+            }
         }
     ]
 }
