@@ -3178,6 +3178,62 @@
                 "state": "Georgia",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Ed Case",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepEdCase"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 1,
+                "state": "Hawaii",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Kai Kahele",
+            "platforms": {
+                "Twitter": {
+                    "official": "kaikahele"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "Hawaii",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Russ Fulcher",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRussFulcher"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "Idaho",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Simpson",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongMikeSimpson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 2,
+                "state": "Idaho",
+                "chamber": "House"
+            }
         }
     ]
 }
