@@ -3234,6 +3234,262 @@
                 "state": "Idaho",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Bobby Rush",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBobbyRush"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 1,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Robin Kelly",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRobinkelly",
+                    "personal": "RobinLynneKelly"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Marie Newman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMarieNewman"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 3,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jesus Garcia",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChuyGarcia"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 4,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Quigley",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeQuigley"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 5,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Sean Casten",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCasten",
+                    "personal": "SeanCasten"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 6,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Danny Davis",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDannyDavis"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Raja Krishnamoorthi",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongressmanRaja"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 8,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jan Schakowsky",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSchakowsky",
+                    "personal": "janschakowsky"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 9,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Brad Schneider",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSchneider"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 10,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Bill Foster",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBillFoster"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 11,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Bost",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBost"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 12,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Rodney Davis",
+            "platforms": {
+                "Twitter": {
+                    "official": "RodneyDavis"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 13,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Lauren Underwood",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepUnderwood",
+                    "personal": "LaurenUnderwood"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 14,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mary Miller",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMaryMiller"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 15,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Adam Kinzinger",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKinzinger"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 16,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Cheri Bustos",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCheri"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 17,
+                "state": "Illinois",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Darin LaHood",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLaHood"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 18,
+                "state": "Illinois",
+                "chamber": "House"
+            }
         }
     ]
 }
