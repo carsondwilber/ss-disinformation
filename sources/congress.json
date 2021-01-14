@@ -2587,6 +2587,396 @@
                 "state": "Delaware",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Matt Gaetz",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMattGaetz",
+                    "personal": "mattgaetz"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Neal Dunn",
+            "platforms": {
+                "Twitter": {
+                    "official": "DrNealDunnFL2"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 2,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Kat Cammack",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKatCammack",
+                    "personal": "Kat_Cammack"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 3,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "John Rutherford",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRutherfordFL",
+                    "personal": "JRutherfordFL"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 4,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Al Lawson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAlLawsonJr"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 5,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Michael Waltz",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMichaelWaltz",
+                    "personal": "michaelgwaltz"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 6,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Stephanie Murphy",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepStephMurphy"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Bill Posey",
+            "platforms": {
+                "Twitter": {
+                    "official": "congbillposey"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 8,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Darren Soto",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDarrenSoto",
+                    "personal": "DarrenSoto"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 9,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Val Demings",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepValDemings"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 10,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Daniel Webster",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepWebster"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 11,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Gus Bilirakis",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGusBilirakis"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 12,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Charlie Crist",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCharlieCrist"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 13,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Kathy Castor",
+            "platforms": {
+                "Twitter": {
+                    "official": "USRepKCastor",
+                    "personal": "KathyCastorFL"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 14,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Scott Franklin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFranklin",
+                    "personal": "ScottFranklinFL"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 15,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Vern Buchanan",
+            "platforms": {
+                "Twitter": {
+                    "official": "VernBuchanan"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 16,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Greg Steube",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGregSteube"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 17,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Brian Mast",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBrainMast"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 18,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Byron Donalds",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDonaldsPress",
+                    "personal": "ByronDonalds"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 19,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Alcee Hastings",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHastingsFL"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 20,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Lois Frankel",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLoisFrankel"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 21,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ted Deutch",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTedDeutch",
+                    "personal": "TedDeutch"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 22,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Debbie Wasserman Schultz",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDWStweets",
+                    "personal": "DWStweets"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 23,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Frederica Wilson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepWilson"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 24,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mario Diaz-Balart",
+            "platforms": {
+                "Twitter": {
+                    "official": "MarioDB"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 25,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Carlos Gimenez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCarlos",
+                    "personal": "CarlosGimenezFL"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 26,
+                "state": "Florida",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Maria Elvira Salazar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMariaSalazar",
+                    "personal": "MaElviraSalazar"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 27,
+                "state": "Florida",
+                "chamber": "House"
+            }
         }
     ]
 }
