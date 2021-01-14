@@ -1582,6 +1582,827 @@
                 "state": "Arizona",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "Rick Crawford",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRickCrawford"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "Arkansas",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "French Hill",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFrenchHill"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 2,
+                "state": "Arkansas",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Steve Womack",
+            "platforms": {
+                "Twitter": {
+                    "official": "rep_stevewomack"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 3,
+                "state": "Arkansas",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Bruce Westerman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepWesterman",
+                    "personal": "WestermanAR"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 4,
+                "state": "Arkansas",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Doug LaMalfa",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLaMalfa",
+                    "personal": "DougLaMalfa"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 1,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jared Huffman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHuffman"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "John Garamendi",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGaramendi"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 3,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom McClintock",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcClintock",
+                    "personal": "tommcclintock"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 4,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Thompson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepThompson",
+                    "personal": "Mike_CA05"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 5,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Doris Matsui",
+            "platforms": {
+                "Twitter": {
+                    "official": "DorisMatsui"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 6,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ami Bera",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBera"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 7,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jay Obernolte",
+            "platforms": {
+                "Twitter": {
+                    "official": "JayObernolte"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 8,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jerry McNerney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcNerney",
+                    "personal": "jerrymcnerney"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 9,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Josh Harder",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJoshHarder"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 10,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mark DeSaulnier",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDeSaulnier"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 11,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Nancy Pelosi",
+            "platforms": {
+                "Twitter": {
+                    "official": "SpeakerPelosi"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 12,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Barbara Lee",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBarbaraLee"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 13,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jackie Speier",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSpeier"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 14,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Eric Swalwell",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSwalwell",
+                    "personal": "ericswalwell"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 15,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jim Costa",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJimCosta"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 16,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ro Khanna",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRoKhanna",
+                    "personal": "RoKhanna"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 17,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Anna Eshoo",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAnnaEshoo"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 18,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Zoe Lofgren",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepZoeLofgren",
+                    "personal": "ZoeLofgren"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 19,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jimmy Panetta",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJimmyPanetta",
+                    "personal": "JimmyPanetta"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 20,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "David Valadao",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavidValadao",
+                    "personal": "dgvaladao"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 21,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Devin Nunes",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDevinNunes",
+                    "personal": "DevinNunes"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 22,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Kevin McCarthy",
+            "platforms": {
+                "Twitter": {
+                    "official": "GOPLeader"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 23,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Salud Carbajal",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCarbajal"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 24,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Garcia",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeGarcia"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 25,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Julia Brownley",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBrownley"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 26,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Judy Chu",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJudyChu"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 27,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Adam Schiff",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAdamSchiff"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 28,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Tony Cardenas",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCardenas",
+                    "personal": "Tcardenas"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 29,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Brad Sherman",
+            "platforms": {
+                "Twitter": {
+                    "official": "BradSherman"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 30,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Pete Aguilar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPeteAguilar",
+                    "personal": "aguilarpete"
+                }
+            },
+            "metadata": {
+                "Party": "Democrat",
+                "district": 31,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Grace Napolitano",
+            "platforms": {
+                "Twitter": {
+                    "official": "gracenapolitano"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 32,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ted Lieu",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTedLieu",
+                    "personal": "tedleiu"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 33,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jimmy Gomez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJimmyGomez",
+                    "personal": "JimmyGomezCA"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 34,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Norma Torres",
+            "platforms": {
+                "Twitter": {
+                    "official": "NormaJTorres"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 35,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Raul Ruiz",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRaulRuizMD",
+                    "personal": "Dr_RaulRuiz"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 36,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Karen Bass",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKarenBass",
+                    "personal": "KarenBassTweets"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 37,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Linda Sanchez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLindaSanchez"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 38,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Young Kim",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepYoungKim"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 39,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Lucille Roybal-Allard",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRoybalAllard"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 40,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mark Takano",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepmarkTakano"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 41,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Ken Calvert",
+            "platforms": {
+                "Twitter": {
+                    "official": "KenCalvert"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 42,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Maxine Waters",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMAxineWaters"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 43,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Nanette Barragan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBarragan",
+                    "personal": "Nanette4CA"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 44,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Katie Porter",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKatiePorter"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 45,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Lou Correa",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLouCorrea"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 46,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Alan Lowenthal",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLowenthal",
+                    "personal": "alanlowenthal"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 47,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Michelle Steel",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSteel"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 48,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Levin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeLevin",
+                    "personal": "MikeLevin"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 49,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Darrell Issa",
+            "platforms": {
+                "Twitter": {
+                    "official": "repdarrellissa",
+                    "personal": "DarrellIssa"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "district": 50,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Juan Vargas",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJuanVargas"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 51,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Scott Peters",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepScottPeters",
+                    "personal": "ScottPetersSD"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 52,
+                "state": "California",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Sara Jacobs",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSaraJacobs",
+                    "personal": "SaraJacobsCA"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 53,
+                "state": "California",
+                "chamber": "House"
+            }
         }
     ]
 }
