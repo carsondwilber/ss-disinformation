@@ -2503,6 +2503,77 @@
                 "state": "Colorado",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "John Larson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJohnLarson"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 1,
+                "state": "Connecticut",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Joe Courtney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJoeCourtney"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 2,
+                "state": "Connecticut",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Rosa DeLauro",
+            "platforms": {
+                "Twitter": {
+                    "official": "rosadelauro"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 3,
+                "state": "Connecticut",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jim Himes",
+            "platforms": {
+                "Twitter": {
+                    "official": "jahimes"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 4,
+                "state": "Connecticut",
+                "chamber": "House"
+            }
+        },
+        {
+            "name": "Jahana Hayes",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJahanaHayes",
+                    "personal": "JahanaHayesCT"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "district": 5,
+                "state": "Connecticut",
+                "chamber": "House"
+            }
         }
     ]
 }
