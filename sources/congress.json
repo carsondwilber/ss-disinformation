@@ -3490,6 +3490,3942 @@
                 "state": "Illinois",
                 "chamber": "House"
             }
+        },
+        {
+            "name": "James Baird",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJimBaird"
+                }
+
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Jim Banks",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJimBanks"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Larry Bucshon",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLarryBucshon"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Andre Carson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAndreCarson"
+                }
+            },
+            "metadata": {
+                "party": "Democrat",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Trey Hollingsworth",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTrey"
+                }
+
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Frank Mrvan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMrvan"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Greg Pence",
+            "platforms": {
+                "Twitter": {
+                    "official": "GregPenceIN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Victoria Spartz",
+            "platforms": {
+                "Twitter": {
+                    "official": "Victoria_Spartz"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Jackie Walorski",
+            "platforms": {
+                "Twitter": "RepWalorski"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Indiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Cynthia Axne",
+            "platforms": {
+                "Twitter": "RepCindyAxne"
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Iowa",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Randy Feenstra",
+            "platforms": {
+                "Twitter": "RandyFeenstra"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Iowa",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Ashley Hinson",
+            "platforms": {
+                "Twitter": "RepAshleyHinson"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Iowa",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Mariannette Miller-Meeks",
+            "platforms": {
+                "Twitter": "millermeeks"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Iowa",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Sharice Davids",
+            "platforms": {
+                "Twitter": "RepDavids"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Ron Estes",
+            "platforms": {
+                "Twitter": "RepRonEstes"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Jake LaTurner",
+            "platforms": {
+                "Twitter": "JakeLaTurner"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Tracey Mann",
+            "platforms": {
+                "Twitter": "TraceyMannKS"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kansas",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Andy Barr",
+            "platforms": {
+                "Twitter": "RepAndyBarr"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "James Comer",
+            "platforms": {
+                "Twitter": "RepJamesComer"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Brett Guthrie",
+            "platforms": {
+                "Twitter": "RepGuthrie"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Thomas Massie",
+            "platforms": {
+                "Twitter": "RepThomasMassie"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Harold Rogers",
+            "platforms": {
+                "Twitter": "RepHalRogers"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "John A. Yarmuth",
+            "platforms": {
+                "Twitter": "RepJohnYarmuth"
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Kentucky",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Garret Graves",
+            "platforms": {
+                "Twitter": "RepGarretGraves"
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+		        "chamber": "House"
+            }
+        },
+	    {
+            "name": "Clay Higgins",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepClayHiggins",
+                    "personal": "CaptClayHiggins"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeJohnson",
+                    "personal": "MikeJohnson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+		        "chamber": "Republican"
+            }
+        },
+        {
+            "name": "Cedric L. Richmond",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRichmond",
+                    "personal": "CedricRichmond"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Louisiana",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steve Scalise",
+            "platforms": {
+                "Twitter": {
+                    "official": "SteveScalise",
+                    "personal": "SteveScaliseGOP"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Louisiana",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jared F. Golden",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGolden",
+                    "personal": "golden4congress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maine",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Chellie Pingree",
+            "platforms": {
+                "Twitter": {
+                    "official": "ChelliePingree",
+                    "personal": "PingreeForME"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maine",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Anthony G. Brown",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAnthonyBrown",
+                    "personal": "AnthonyBrownMD4"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Andy Harris",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAndyHarrisMD",
+                    "personal": ""
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Republican",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steny H. Hoyer",
+            "platforms": {
+                "Twitter": {
+                    "official": "LeaderHoyer",
+                    "personal": "StenyHoyer"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kweisi Mfume",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKweisiMfume",
+                    "personal": "Mfume4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jamie Raskin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRaskin",
+                    "personal": "jamie_raskin"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "C. A. Dutch Ruppersberger",
+            "platforms": {
+                "Twitter": {
+                    "official": "Call_Me_Dutch",
+                    "personal": "GoDutchForMD"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "John P. Sarbanes",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSarbanes",
+                    "personal": "JohnSarbanes"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David J. Trone",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavidTrone",
+                    "personal": "davidjtrone"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Maryland",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jake Auchincloss",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAuchincloss",
+                    "personal": "JakeAuch"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Katherine M. Clark",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKClark",
+                    "personal": "KatherineClark"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "William R. Keating",
+            "platforms": {
+                "Twitter": {
+                    "official": "USRepKeating",
+                    "personal": "WilliamKeating"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Stephen F. Lynch",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepStephenLynch"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "James P. McGovern",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcGovern",
+                    "personal": "McGovernMA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Seth Moulton",
+            "platforms": {
+                "Twitter": {
+                    "official": "sethmoulton"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Richard E. Neal",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRichardNeal"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ayanna Pressley",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPressley",
+                    "personal": "AyannaPressley"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Lori Trahan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLoriTrahan",
+                    "personal": "LoriTrahanMA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Massachusetts",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jack Bergman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJackBergman",
+                    "personal": "JackBergman_MI1"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Debbie Dingell",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDebDingell",
+                    "personal": "DebDingell"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bill Huizenga",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHuizenga"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Daniel T. Kildee",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDanKildee",
+                    "personal": "dankildee"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Brenda Lawrence",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLawrence",
+                    "personal": "BrendaLLawrence"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Andy Levin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAndyLevin",
+                    "personal": "Andy_Levin"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Lisa C. McClain",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLisaMcClain"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Peter Meijer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMeijer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "John R. Moolenaar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMoolenaar",
+                    "personal": "JohnMoolenaar"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Elissa Slotkin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSlotkin",
+                    "personal": "ElissaSlotkin"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Haley M. Stevens",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHaleyStevens",
+                    "personal": "HaleyLive"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Rashida Tlaib",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRashida",
+                    "personal": "RashidaTlaib"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Fred Upton",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFredUpton"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tim Walberg",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepWalberg",
+                    "personal": "TimWalberg"
+                }
+            },
+            "metadata": {
+                "party": "Michigan",
+                "state": "Republican",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Angie Craig",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAngieCraig",
+                    "personal": "AngieCraigMN"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom Emmer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTomEmmer",
+                    "personal": "tomemmer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Michigan",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Michelle Fischbach",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFischbach",
+                    "personal": "FischbachMN7"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jim Hagedorn",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHagedorn",
+                    "personal": "JimHagedornMN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Betty McCollum",
+            "platforms": {
+                "Twitter": {
+                    "official": "BettyMcCollum04"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ilhan Omar",
+            "platforms": {
+                "Twitter": {
+                    "official": "IlhanMN",
+                    "personal": "Ilhan"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dean Phillips",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDeanPhillips",
+                    "personal": "deanbphillips"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Pete Stauber",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPeteStauber",
+                    "personal": "PeteStauber"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Minnesota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Michael Guest",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMichaelGuest"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Mississippi",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Trent Kelly",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTrentKelly"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Mississippi",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steven M. Palazzo",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongPalazzo",
+                    "personal": "StevenPalazzo"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Mississippi",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bennie G. Thompson",
+            "platforms": {
+                "Twitter": {
+                    "official": "BennieGThompson"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Mississippi",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Cori Bush",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCori",
+                    "personal": "CoriBush"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Emanuel Cleaver",
+            "platforms": {
+                "Twitter": {
+                    "official": "repcleaver"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Sam Graves",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSamGraves"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Vicky Hartzler",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHartzler"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Billy Long",
+            "platforms": {
+                "Twitter": {
+                    "official": "USRepLong",
+                    "personal": "auctnr1"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Blaine Luetkemeyer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBlaine",
+                    "personal": "LuetkemeyerB"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jason Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJasonSmith",
+                    "personal": "JasonSmithMO"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },{
+            "name": "Ann Wagner",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAnnWagner",
+                    "personal": "AnnLWagner"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Missouri",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Matthew M. Rosendale",
+            "platforms": {
+                "Twitter": {
+                    "official": "MattForMontana"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Montana",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Don Bacon",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDonBacon",
+                    "personal": "DonJBacon"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nebraska",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jeff Fortenberry",
+            "platforms": {
+                "Twitter": {
+                    "official": "JeffFortenberry"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nebraska",
+		        "chamber": "House"
+            }
+        },{
+            "name": "Adrian Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAdrianSmith"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nebraska",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mark E. Amodei",
+            "platforms": {
+                "Twitter": {
+                    "official": "MarkAmodeiNV2"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Nevada",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steven Horsford",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHorsford",
+                    "personal": "StevenHorsford"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Nevada",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Susie Lee",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSusieLee",
+                    "personal": "SusieLeeNV"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Nevada",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dina Titus",
+            "platforms": {
+                "Twitter": {
+                    "official": "repdinatitus",
+                    "personal": "dinatitus"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Nevada",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ann M. Kuster",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAnnieKuster",
+                    "personal": "AnnMclaneKuster"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Hampshire",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Chris Pappas",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChrisPappas",
+                    "personal": "ChrisPappasNH"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Hampshire",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Josh Gottheimer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJoshG",
+                    "personal": "JoshGottheimer"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Andy Kim",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAndyKimNJ",
+                    "personal": "AndyKimNJ"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom Malinowski",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMalinowski",
+                    "personal": "Malinowski"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Donald Norcross",
+            "platforms": {
+                "Twitter": {
+                    "official": "DonaldNorcross4NJ",
+                    "personal": "DonaldNorcross"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Frank Pallone Jr.",
+            "platforms": {
+                "Twitter": {
+                    "official": "FrankPallone",
+                    "personal": "pallonefornj"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bill Pascrell Jr.",
+            "platforms": {
+                "Twitter": {
+                    "official": "BillPascrell",
+                    "personal": "PascrellForNJ"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Donald M. Payne Jr.",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDonaldPayne"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mikie Sherrill",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSherrill",
+                    "personal": "MikieSherrill"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Albio Sires",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSires"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Christopher H. Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChrisSmith"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jefferson Van Drew",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongressmanJVD"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bonnie Watson Coleman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBonnie"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Jersey",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Debra A. Haaland",
+            "platforms": {
+                "Twitter": {
+                    "official": "DebHaalandNM"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Mexico",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Yvette Herrell",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHerrell"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New Mexico",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Teresa Leger Fernandez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTeresaLF"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New Mexico",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jamaal Bowman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBowman",
+                    "personal": "JamaalBowmanNY"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Yvette D. Clarke",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepYvetteClarke"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Antonio Delgado",
+            "platforms": {
+                "Twitter": {
+                    "official": "repdelgado",
+                    "personal": "DelgadoforNY19"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Adriano Espaillat",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepEspaillat",
+                    "personal": "EspaillatNY"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Andrew Garbarino",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGarbarino",
+                    "personal": "GarbarinoforNY"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Brian Higgins",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBrianHiggins",
+                    "personal": "Higgins4WNY"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Chris Jacobs",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJacobs",
+                    "personal": "JacobsNY27"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Hakeem S. Jeffries",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJeffries",
+                    "personal": "hakeemjeffries"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mondaire Jones",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMondaire",
+                    "personal": "MondaireJones"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "john katko",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJohnKatko"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Nicole Malliotakis",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMalliotakis",
+                    "personal": "NMalliotakis"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Carolyn B. Maloney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMaloney",
+                    "personal": "CarolynBMaloney"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Sean Patrick Maloney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSeanMaloney",
+                    "personal": "spmaloney"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Gregory W. Meeks",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGregoryMeeks",
+                    "personal": "GregMeeksNYC"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Grace Meng",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGraceMeng",
+                    "personal": "Grace4NY"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Joseph D. Morelle",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJoeMorelle"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jerrold Nadler",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJerryNadler",
+                    "personal": "JerryNadler"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Alexandria Ocasio-Cortez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAOC",
+                    "personal": "AOC"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom Reed",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTomReed",
+                    "personal": "TomReedCongress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kathleen M. Rice",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKathleenRice",
+                    "personal": "KathleenRice"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Elise M. Stefanik",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepStefanik",
+                    "personal": "EliseStefanik"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Thomas R. Suozzi",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTomSuozzi"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Paul Tonko",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPaulTonko",
+                    "personal": "PaulTonko"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ritchie Torres",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRitchie",
+                    "personal": "RitchieTorres"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Nydia M. Velazquez",
+            "platforms": {
+                "Twitter": {
+                    "official": "NydiaVelazquez",
+                    "personal": "ReElectNydia"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Lee M. Zeldin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLeeZeldin",
+                    "personal": "leezeldin"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "New York",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Alma S. Adams",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAdams",
+                    "personal": "AlmaforCongress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dan Bishop",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDanBishop",
+                    "personal": "jdanbishop"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ted Budd",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTedBudd",
+                    "personal": "buddforcongress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "G. K. Butterfield",
+            "platforms": {
+                "Twitter": {
+                    "official": "GKButterfield"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Madison Cawthorn",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCawthorn",
+                    "personal": "CawthornforNC"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Virginia Foxx",
+            "platforms": {
+                "Twitter": {
+                    "official": "virginiafoxx",
+                    "personal": "foxxforcongress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Richard Hudson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRichHudson",
+                    "personal": "RichHudson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kathy E. Manning",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKManning",
+                    "personal": "KathyManningNC"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Patrick T. McHenry",
+            "platforms": {
+                "Twitter": {
+                    "official": "PatrickMcHenry",
+                    "personal": "McHenryCampaign"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Gregory Murphy",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGregMurphy"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David E. Price",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavidEPrice"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Deborah K. Ross",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDeborahRoss",
+                    "personal": "DeborahRossNC"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David Rouzer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavidRouzer",
+                    "personal": "DavidRouzer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kelly Armstrong",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepArmstrongND",
+                    "personal": "Armstrong_ND"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "North Dakota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Gregoria Kilili Camacho Sablan",
+            "platforms": {
+                "Twitter": {
+                    "official": "Kilili_Sablan"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Northern Mariana Islands",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Troy Balderson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBalderson",
+                    "personal": "Troy_Balderson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Joyce Beatty",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBeatty",
+                    "personal": "JoyceBeatty"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steve Chabot",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSteveChabot",
+                    "personal": "SteveChabot"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Warren Davidson",
+            "platforms": {
+                "Twitter": {
+                    "official": "WarrenDavidson",
+                    "personal": "Vote_Davidson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Marcia L. Fudge",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMarciaFudge",
+                    "personal": "mlfudge"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bob Gibbs",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBobGibbs"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Anthony Gonzalez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAGonzalez",
+                    "personal": "AnthonyGonzalez"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bill Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBillJohnson",
+                    "personal": "JohnsonLeads"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jim Jordan",
+            "platforms": {
+                "Twitter": {
+                    "official": "Jim_Jordan"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David P. Joyce",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDaveJoyce",
+                    "personal": "DaveJoyceOH14"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Marcy Kaptur",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMarcyKaptur",
+                    "personal": "Marcy_Kaptur"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Robert E. Latta",
+            "platforms": {
+                "Twitter": {
+                    "official": "boblatta",
+                    "personal": "latta4congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tim Ryan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTimRyan",
+                    "personal": "TimRyan"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Steve Stivers",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSteveStivers",
+                    "personal": "stevestivers"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Michael R. Turner",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMikeTurner",
+                    "personal": "MikeTurnerOH"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Brad R. Wenstrup",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBradWenstrup",
+                    "personal": "bradwenstrup"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Ohio",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Stephanie I. Bice",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBice",
+                    "personal": "stephaniebice"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom Cole",
+            "platforms": {
+                "Twitter": {
+                    "official": "TomColeOK04"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kevin Hern",
+            "platforms": {
+                "Twitter": {
+                    "official": "repkevinhern",
+                    "personal": "krhern"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Frank D. Lucas",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFrankLucas",
+                    "personal": "FrankDLucas"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Markwayne Mullin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMullin",
+                    "personal": "MarkwayneMullin"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oklahoma",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Cliff Bentz",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBentz",
+                    "personal": "CliffBentz"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Oregon",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Earl Blumenauer",
+            "platforms": {
+                "Twitter": {
+                    "official": "repblumenauer"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Oregon",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Suzanne Bonamici",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBonamici"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Oregon",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Peter A. DeFazio",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPeterDeFazio",
+                    "personal": "DeFazio4Oregon"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Oregon",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kurt Schrader",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSchrader"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Oregon",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Brendan F. Boyle",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongBoyle",
+                    "personal": "RepBrendanBoyle"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Matt Cartwright",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCartwright",
+                    "personal": "CartwrightPA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Madeleine Dean",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDean",
+                    "personal": "MadeleineDean"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Michael F. Doyle",
+            "platforms": {
+                "Twitter": {
+                    "official": "USRepMikeDoyle"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dwight Evans",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDwightEvans",
+                    "personal": "DwightEvansPA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Brian K. Fitzpatrick",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBrianFitz",
+                    "personal": "BrianFitzUSA"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Chrissy Houlahan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHoulahan",
+                    "personal": "HoulahanForPa"
+                }
+            },
+            "metadata": {
+                "party": "Pennsylvania",
+                "state": "Democratic",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "John Joyce",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJohnJoyce",
+                    "personal": "JohnJoyceForPA"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Fred Keller",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFredKeller",
+                    "personal": "VoteFredKeller"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Kelly",
+            "platforms": {
+                "Twitter": {
+                    "official": "MikeKellyPA",
+                    "personal": "MikeKellyforPA"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Conor Lamb",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepConorLamb",
+                    "personal": "ConorLambPA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Daniel Meuser",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMeuser"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Scott Perry",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepScottPerry",
+                    "personal": "PatriotsPerry"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Guy Reschenthaler",
+            "platforms": {
+                "Twitter": {
+                    "official": "GReschenthaler",
+                    "personal": "reschenthaler"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mary Gay Scanlon",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMGS",
+                    "personal": "marygayscanlon"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Lloyd Smucker",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSmucker",
+                    "personal": "LloydSmuckerPA"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Glenn Thompson",
+            "platforms": {
+                "Twitter": {
+                    "official": "CongressmanGT"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Susan Wild",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSusanWild",
+                    "personal": "wildforcongress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Pennsylvania",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jenniffer Gonzalez-Colon",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJenniffer"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Puerto Rico",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David N. Cicilline",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCicilline",
+                    "personal": "davidcicilline"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Rhode Island",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "James R. Langevin",
+            "platforms": {
+                "Twitter": {
+                    "official": "JimLangevin",
+                    "personal": "LangevinForRI"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Rhode Island",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "James E. Clyburn",
+            "platforms": {
+                "Twitter": {
+                    "official": "WhipClyburn",
+                    "personal": "ClyburnSC06"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jeff Duncan",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJeffDuncan",
+                    "personal": "Duncan4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Nancy Mace",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepNancyMace",
+                    "personal": "NancyMace"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Norman Ralph",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRalphNorman",
+                    "personal": "RalphNorman"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tom Rice",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTomRice",
+                    "personal": "TomRiceSC7"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "William R. IV Timmons",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTimmons",
+                    "personal": "VoteTimmons"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Joe Wilson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJoeWilson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Carolina",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dusty Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDustyJohnson",
+                    "personal": "DustyJohnson"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "South Dakota",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Tim Burchett",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTimBurchett",
+                    "personal": "timburchett"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Steve Cohen",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCohen",
+                    "personal": "ReElectCohen"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Jim Cooper",
+            "platforms": {
+                "Twitter": {
+                    "official": "repjimcooper",
+                    "personal": "CoopForCongress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Scott DesJarlais",
+            "platforms": {
+                "Twitter": {
+                    "official": "DesJarlaisTN04",
+                    "personal": "tndesjarlais"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Charles J. Fleischmann",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChuck",
+                    "personal": "chuck4congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Mark E. Green",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMarkGreen",
+                    "personal": "DrMarkGreen4TN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Diana Harshbarger",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepHarshbarger",
+                    "personal": "DHarshbargerTN1"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "David Kustoff",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDavidKustoff",
+                    "personal": "DavidKustoff"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "John W. Rose",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJohnRose",
+                    "personal": "JohnRoseforTN"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Tennessee",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Colin Z. Allred",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepColinAllred",
+                    "personal": "ColinAllredTX"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Jodey C. Arrington",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepArrington",
+                    "personal": "JodeyArrington"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Brian Babin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBrianBabin",
+                    "personal": "Babin4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Kevin Brady",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKevinBrady",
+                    "personal": "bradyfortexas"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Michael C. Burgess",
+            "platforms": {
+                "Twitter": {
+                    "official": "michaelcburgess",
+                    "personal": "DrBurgessTX"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "John R. Carter",
+            "platforms": {
+                "Twitter": {
+                    "official": "JudgeCarter",
+                    "personal": "JudgeJohnCarter"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Joaquin Castro",
+            "platforms": {
+                "Twitter": {
+                    "official": "JoaquinCastrotx",
+                    "personal": "Castro4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Michael Cloud",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCloudTX",
+                    "personal": "MichaelJCloud"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Dan Crenshaw",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDanCrenshaw",
+                    "personal": "DanCrenshawTX"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Henry Cuellar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCuellar",
+                    "personal": "CuellarCampaign"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Lloyd Doggett",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLloydDoggett",
+                    "personal": "LloydDoggettTX"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Veronica Escobar",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepEscobar",
+                    "personal": "vgescobar"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        } ,
+        {
+            "name": "Pat Fallon",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPatFallon",
+                    "personal": "FallonForTexas"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        } ,
+        {
+            "name": "Lizzie Fletcher",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFletcher",
+                    "personal": "Lizzie4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Sylvia R. Garcia",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSylviaGarcia",
+                    "personal": "LaCongresista"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Louie Gohmert",
+            "platforms": {
+                "Twitter": {
+                    "official": "replouiegohmert",
+                    "personal": "LouieGohmertTX1"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Tony Gonzales",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTonyGonzales",
+                    "personal": "TonyGonzales4TX"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Vicente Gonzalez",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGonzales"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Lance Gooden",
+            "platforms": {
+                "Twitter": {
+                    "official": "Lancegooden"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        } ,
+        {
+            "name": "Kay Granger",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKayGranger"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        } ,
+        {
+            "name": "Al Green",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAlGreen",
+                    "personal": "RepAlGreenTX"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        } ,
+        {
+            "name": "Sheila Jackson Lee",
+            "platforms": {
+                "Twitter": {
+                    "official": "JacksonLeeTX18",
+                    "personal": "sjl4hrc"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Ronny Jackson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRonnyJackson",
+                    "personal": "RonnyJacksonTX"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Eddie Bernice Johnson",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepEBJ"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Michael T. McCaul",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcCaul",
+                    "personal": "McCaulforTexas"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Troy E. Nehls",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTroyNehls",
+                    "personal": "SheriffTNehls"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "August Pfluger",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepPfluger",
+                    "personal": "AugustPfluger"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Chip Roy",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChipRoy",
+                    "personal": "chiproytx"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Pete Sessions",
+            "platforms": {
+                "Twitter": {
+                    "official": "PeteSessions"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Van Taylor",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepVanTaylor",
+                    "personal": "VanTaylorTX"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Beth Van Duyne",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBethVanDuyne",
+                    "personal": "Bethvanduyne"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Marc A. Veasey",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepVeasey",
+                    "personal": "MarcVeasey"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Filemon Vela",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepFilemonVela",
+                    "personal": "FilemonVela"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Randy K. Weber Sr. ",
+            "platforms": {
+                "Twitter": {
+                    "official": "TXRandy14",
+                    "personal": "WeberforTexas"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Roger Williams",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRWilliams"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Ron Wright",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRonWright",
+                    "personal": "ron4congress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Texas",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "John R. Curtis",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJohnCurtis",
+                    "personal": "CurtisUT"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Blake D. Moore",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBlakeMoore",
+                    "personal": "ElectBlakeMoore"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Burgess Owens",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBurgessOwens",
+                    "personal": "BurgessOwens"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Chris Stewart",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepChrisStewart",
+                    "personal": "StewartforUtah"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Utah",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Peter Welch",
+            "platforms": {
+                "Twitter": {
+                    "official": "PeterWelch",
+                    "personal": "WelchForVT"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Vermont",
+		        "chamber": "House"
+            }
+        }
+         ,
+        {
+            "name": "Stacey E. Plaskett",
+            "platforms": {
+                "Twitter": {
+                    "official": "StaceyPlaskett"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virgin Islands",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Donald S. Beyer Jr.",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDonBeyer"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ben Cline",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBenCline",
+                    "personal": "Cline4Virginia"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Gerald E. Connolly",
+            "platforms": {
+                "Twitter": {
+                    "official": "GerryConnolly",
+                    "personal": "ElectConnolly"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bob Good",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBobGood",
+                    "personal": "GoodForCongress"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Morgan H. Griffith",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMGriffith",
+                    "personal": "MorganGriffith"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Elaine G. Luria",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepElaineLuria",
+                    "personal": "ElaineLuriaVA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Donald A. McEachin",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcEachin",
+                    "personal": "Donald_McEachin"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Robert C. Scott",
+            "platforms": {
+                "Twitter": {
+                    "official": "BobbyScott",
+                    "personal": "BobbyScott4VA3"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Abigail Davis Spanberger",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepSpanberger",
+                    "personal": "SpanbergerVA07"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jennifer Wexton",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepWexton",
+                    "personal": "JenniferWexton"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Robert J. Wittman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RobWittman",
+                    "personal": "ReElectWittman"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Suzan K. Delbene",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDelBene",
+                    "personal": "SuzanDelBene"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Jaime Herrera Beutler",
+            "platforms": {
+                "Twitter": {
+                    "official": "HerreraBeutler",
+                    "personal": "JaimeForUSRep"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Pramila Jayapal",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepJayapal",
+                    "personal": "PramilaJayapal"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Derek Kilmer",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepDerekKilmer",
+                    "personal": "DerekKilmer"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Rick Larsen",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRickLarsen",
+                    "personal": "larsenrick"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Cathy Rodgers McMorris",
+            "platforms": {
+                "Twitter": {
+                    "official": "cathymcmorris"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Dan Newhouse",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepNewhouse",
+                    "personal": "Newhouse4Rep"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Kim Schrier",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepKimSchrier",
+                    "personal": "DrKimSchrier"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Adam Smith",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAdamSmith"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Marilyn Strickland",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepStricklandWA",
+                    "personal": "StricklandforWA"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Washington",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "David B. McKinley",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepMcKinley"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "West Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Carol D. Miller",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepCarolMiller",
+                    "personal": "CarolMillerWV"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "West Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Alexander X. Mooney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepAlexMooney",
+                    "personal": "MooneyforWV"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "West Virginia",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Scott Fitzgerald",
+            "platforms": {
+                "Twitter": {
+                    "official": "FitzgeraldForWI"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mike Gallagher",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGallagher",
+                    "personal": "MikeforWI"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Glenn Grothman",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGrothman",
+                    "personal": "GrothmanforWI"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Ron Kind",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepRonKind",
+                    "personal": "KindforCongress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Gwen Moore",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepGwenMoore",
+                    "personal": "Gwen4Congress"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Mark Pocan",
+            "platforms": {
+                "Twitter": {
+                    "official": "repmarkpocan",
+                    "personal": "MarkPocan"
+                }
+            },
+            "metadata": {
+                "party": "Democratic",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Bryan Steil",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepBryanSteil",
+                    "personal": "BryanSteil"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Thomas P. Tiffany",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepTiffany",
+                    "personal": "TomTiffanyWI"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wisconsin",
+		        "chamber": "House"
+            }
+        },
+        {
+            "name": "Liz Cheney",
+            "platforms": {
+                "Twitter": {
+                    "official": "RepLizCheney",
+                    "personal": "Liz_Cheney"
+                }
+            },
+            "metadata": {
+                "party": "Republican",
+                "state": "Wyoming",
+		        "chamber": "House"
+            }
         }
     ]
 }
