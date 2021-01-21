@@ -2413,7 +2413,6 @@
             },
             "metadata": {
                 "party": "Democrat",
-                "district": 1,
                 "state": "California",
                 "chamber": "House"
             }
@@ -3497,15 +3496,15 @@
                 "Twitter": {
                     "official": "RepJimBaird"
                 }
-
             },
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
-	    {
+        {
             "name": "Jim Banks",
             "platforms": {
                 "Twitter": {
@@ -3515,10 +3514,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
-	    {
+        {
             "name": "Larry Bucshon",
             "platforms": {
                 "Twitter": {
@@ -3528,10 +3528,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
-	    {
+        {
             "name": "Andre Carson",
             "platforms": {
                 "Twitter": {
@@ -3541,24 +3542,25 @@
             "metadata": {
                 "party": "Democrat",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
-	    {
+        {
             "name": "Trey Hollingsworth",
             "platforms": {
                 "Twitter": {
                     "official": "RepTrey"
                 }
-
             },
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
-	    {
+        {
             "name": "Frank Mrvan",
             "platforms": {
                 "Twitter": {
@@ -3568,10 +3570,11 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
-	    {
+        {
             "name": "Greg Pence",
             "platforms": {
                 "Twitter": {
@@ -3581,10 +3584,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
-	    {
+        {
             "name": "Victoria Spartz",
             "platforms": {
                 "Twitter": {
@@ -3594,10 +3598,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
-	    {
+        {
             "name": "Jackie Walorski",
             "platforms": {
                 "Twitter": "RepWalorski"
@@ -3605,10 +3610,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Indiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
-	    {
+        {
             "name": "Cynthia Axne",
             "platforms": {
                 "Twitter": "RepCindyAxne"
@@ -3616,10 +3622,11 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Iowa",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
-	    {
+        {
             "name": "Randy Feenstra",
             "platforms": {
                 "Twitter": "RandyFeenstra"
@@ -3627,10 +3634,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Iowa",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
-	    {
+        {
             "name": "Ashley Hinson",
             "platforms": {
                 "Twitter": "RepAshleyHinson"
@@ -3638,10 +3646,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Iowa",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
-	    {
+        {
             "name": "Mariannette Miller-Meeks",
             "platforms": {
                 "Twitter": "millermeeks"
@@ -3649,10 +3658,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Iowa",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
-	    {
+        {
             "name": "Sharice Davids",
             "platforms": {
                 "Twitter": "RepDavids"
@@ -3660,10 +3670,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kansas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
-	    {
+        {
             "name": "Ron Estes",
             "platforms": {
                 "Twitter": "RepRonEstes"
@@ -3671,10 +3682,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kansas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
-	    {
+        {
             "name": "Jake LaTurner",
             "platforms": {
                 "Twitter": "JakeLaTurner"
@@ -3682,10 +3694,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kansas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
-	    {
+        {
             "name": "Tracey Mann",
             "platforms": {
                 "Twitter": "TraceyMannKS"
@@ -3693,10 +3706,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kansas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
-	    {
+        {
             "name": "Andy Barr",
             "platforms": {
                 "Twitter": "RepAndyBarr"
@@ -3704,10 +3718,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
-	    {
+        {
             "name": "James Comer",
             "platforms": {
                 "Twitter": "RepJamesComer"
@@ -3715,10 +3730,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
-	    {
+        {
             "name": "Brett Guthrie",
             "platforms": {
                 "Twitter": "RepGuthrie"
@@ -3726,10 +3742,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
-	    {
+        {
             "name": "Thomas Massie",
             "platforms": {
                 "Twitter": "RepThomasMassie"
@@ -3737,10 +3754,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
-	    {
+        {
             "name": "Harold Rogers",
             "platforms": {
                 "Twitter": "RepHalRogers"
@@ -3748,10 +3766,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
-	    {
+        {
             "name": "John A. Yarmuth",
             "platforms": {
                 "Twitter": "RepJohnYarmuth"
@@ -3759,10 +3778,11 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Kentucky",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
-	    {
+        {
             "name": "Garret Graves",
             "platforms": {
                 "Twitter": "RepGarretGraves"
@@ -3770,10 +3790,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Louisiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
-	    {
+        {
             "name": "Clay Higgins",
             "platforms": {
                 "Twitter": {
@@ -3784,7 +3805,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Louisiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -3798,7 +3820,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Louisiana",
-		        "chamber": "Republican"
+                "chamber": "Republican"
             }
         },
         {
@@ -3812,7 +3834,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Louisiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -3826,7 +3849,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Louisiana",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -3840,7 +3864,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maine",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -3854,7 +3879,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maine",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -3868,7 +3894,7 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -3882,7 +3908,7 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Republican",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -3896,7 +3922,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -3910,7 +3937,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -3924,7 +3952,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -3938,7 +3967,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -3952,7 +3982,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -3966,7 +3997,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Maryland",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -3980,7 +4012,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -3994,7 +4027,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4008,7 +4042,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4021,7 +4056,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4035,7 +4071,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4048,7 +4085,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4061,7 +4099,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -4075,7 +4114,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -4089,7 +4129,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Massachusetts",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -4103,7 +4144,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4117,7 +4159,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4130,7 +4173,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4144,7 +4188,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4158,7 +4203,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4172,7 +4218,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4185,7 +4232,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -4198,7 +4246,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -4212,7 +4261,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -4226,7 +4276,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -4240,7 +4291,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -4254,7 +4306,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
         },
         {
@@ -4267,7 +4320,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 13
             }
         },
         {
@@ -4281,7 +4335,7 @@
             "metadata": {
                 "party": "Michigan",
                 "state": "Republican",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -4295,7 +4349,7 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -4309,7 +4363,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Michigan",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -4323,7 +4377,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4337,7 +4392,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4350,7 +4406,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4364,7 +4421,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4378,7 +4436,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4392,7 +4451,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Minnesota",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4405,7 +4465,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Mississippi",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4418,7 +4479,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Mississippi",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4432,7 +4494,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Mississippi",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4445,7 +4508,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Mississippi",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4459,7 +4523,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4472,7 +4537,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4485,7 +4551,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4498,7 +4565,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4512,7 +4580,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4526,7 +4595,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4540,9 +4610,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
-        },{
+        },
+        {
             "name": "Ann Wagner",
             "platforms": {
                 "Twitter": {
@@ -4553,7 +4625,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Missouri",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -4566,7 +4639,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Montana",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -4580,7 +4653,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Nebraska",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4593,9 +4667,11 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Nebraska",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
-        },{
+        },
+        {
             "name": "Adrian Smith",
             "platforms": {
                 "Twitter": {
@@ -4605,7 +4681,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Nebraska",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4618,7 +4695,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Nevada",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4632,7 +4710,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Nevada",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4646,7 +4725,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Nevada",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4660,7 +4740,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Nevada",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4674,7 +4755,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Hampshire",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4688,7 +4770,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Hampshire",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4702,7 +4785,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4716,7 +4800,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4730,7 +4815,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4744,7 +4830,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4758,7 +4845,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4772,7 +4860,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4785,7 +4874,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -4799,7 +4889,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -4812,7 +4903,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -4825,7 +4917,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -4838,7 +4931,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -4851,7 +4945,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Jersey",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
         },
         {
@@ -4864,7 +4959,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Mexico",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4877,7 +4973,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New Mexico",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4890,7 +4987,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New Mexico",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4904,7 +5002,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -4917,7 +5016,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -4931,7 +5031,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -4945,7 +5046,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -4959,7 +5061,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -4973,7 +5076,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -4987,7 +5091,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -5001,7 +5106,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -5015,7 +5121,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -5028,7 +5135,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -5042,7 +5150,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -5056,7 +5165,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
         },
         {
@@ -5070,7 +5180,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 13
             }
         },
         {
@@ -5084,7 +5195,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 14
             }
         },
         {
@@ -5098,7 +5210,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 15
             }
         },
         {
@@ -5111,7 +5224,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 16
             }
         },
         {
@@ -5125,7 +5239,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 17
             }
         },
         {
@@ -5139,7 +5254,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 18
             }
         },
         {
@@ -5153,7 +5269,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 19
             }
         },
         {
@@ -5167,7 +5284,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 20
             }
         },
         {
@@ -5181,7 +5299,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 21
             }
         },
         {
@@ -5194,7 +5313,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 22
             }
         },
         {
@@ -5208,7 +5328,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 23
             }
         },
         {
@@ -5222,7 +5343,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 24
             }
         },
         {
@@ -5236,7 +5358,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 25
             }
         },
         {
@@ -5250,7 +5373,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "New York",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 26
             }
         },
         {
@@ -5264,7 +5388,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5278,7 +5403,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5292,7 +5418,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5305,7 +5432,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5319,7 +5447,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5333,7 +5462,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -5347,7 +5477,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -5361,7 +5492,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -5375,7 +5507,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -5388,7 +5521,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -5401,7 +5535,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -5415,7 +5550,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
         },
         {
@@ -5429,7 +5565,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 13
             }
         },
         {
@@ -5443,7 +5580,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "North Dakota",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -5456,7 +5593,7 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Northern Mariana Islands",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -5470,7 +5607,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5484,7 +5622,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5498,7 +5637,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5512,7 +5652,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5526,7 +5667,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5539,7 +5681,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -5553,7 +5696,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -5567,7 +5711,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -5580,7 +5725,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -5594,7 +5740,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -5608,7 +5755,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -5622,7 +5770,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
         },
         {
@@ -5636,7 +5785,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 13
             }
         },
         {
@@ -5650,7 +5800,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 14
             }
         },
         {
@@ -5664,7 +5815,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 15
             }
         },
         {
@@ -5678,7 +5830,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Ohio",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 16
             }
         },
         {
@@ -5692,7 +5845,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oklahoma",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5705,7 +5859,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oklahoma",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5719,7 +5874,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oklahoma",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5733,7 +5889,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oklahoma",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5747,7 +5904,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oklahoma",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5761,7 +5919,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Oregon",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5774,7 +5933,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Oregon",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5787,7 +5947,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Oregon",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5801,7 +5962,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Oregon",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5814,7 +5976,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Oregon",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5828,7 +5991,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5842,7 +6006,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5856,7 +6021,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5869,7 +6035,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5883,7 +6050,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5897,7 +6065,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -5911,7 +6080,7 @@
             "metadata": {
                 "party": "Pennsylvania",
                 "state": "Democratic",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -5925,7 +6094,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -5939,7 +6109,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -5953,7 +6124,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -5967,7 +6139,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -5980,7 +6153,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -5994,7 +6168,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -6008,7 +6183,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -6022,7 +6198,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -6036,7 +6213,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -6049,7 +6227,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -6063,7 +6242,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Pennsylvania",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -6076,7 +6256,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Puerto Rico",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -6090,7 +6270,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Rhode Island",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -6104,7 +6285,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Rhode Island",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -6118,7 +6300,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -6132,7 +6315,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -6146,7 +6330,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -6160,7 +6345,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -6174,7 +6360,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -6188,7 +6375,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -6201,7 +6389,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Carolina",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -6215,7 +6404,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "South Dakota",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -6229,10 +6418,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
-        }
-         ,
+        },
         {
             "name": "Steve Cohen",
             "platforms": {
@@ -6244,10 +6433,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
-        }
-         ,
+        },
         {
             "name": "Jim Cooper",
             "platforms": {
@@ -6259,10 +6448,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
-        }
-         ,
+        },
         {
             "name": "Scott DesJarlais",
             "platforms": {
@@ -6274,10 +6463,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
-        }
-         ,
+        },
         {
             "name": "Charles J. Fleischmann",
             "platforms": {
@@ -6289,10 +6478,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
-        }
-         ,
+        },
         {
             "name": "Mark E. Green",
             "platforms": {
@@ -6304,10 +6493,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
-        }
-         ,
+        },
         {
             "name": "Diana Harshbarger",
             "platforms": {
@@ -6319,10 +6508,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
-        }
-         ,
+        },
         {
             "name": "David Kustoff",
             "platforms": {
@@ -6334,10 +6523,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
-        }
-         ,
+        },
         {
             "name": "John W. Rose",
             "platforms": {
@@ -6349,10 +6538,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Tennessee",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
-        }
-         ,
+        },
         {
             "name": "Colin Z. Allred",
             "platforms": {
@@ -6364,10 +6553,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
-        }
-         ,
+        },
         {
             "name": "Jodey C. Arrington",
             "platforms": {
@@ -6379,10 +6568,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
-        }
-         ,
+        },
         {
             "name": "Brian Babin",
             "platforms": {
@@ -6394,10 +6583,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
-        }
-         ,
+        },
         {
             "name": "Kevin Brady",
             "platforms": {
@@ -6409,10 +6598,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
-        }
-         ,
+        },
         {
             "name": "Michael C. Burgess",
             "platforms": {
@@ -6424,10 +6613,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
-        }
-         ,
+        },
         {
             "name": "John R. Carter",
             "platforms": {
@@ -6439,10 +6628,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
-        }
-         ,
+        },
         {
             "name": "Joaquin Castro",
             "platforms": {
@@ -6454,10 +6643,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
-        }
-         ,
+        },
         {
             "name": "Michael Cloud",
             "platforms": {
@@ -6469,10 +6658,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
-        }
-         ,
+        },
         {
             "name": "Dan Crenshaw",
             "platforms": {
@@ -6484,10 +6673,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
-        }
-         ,
+        },
         {
             "name": "Henry Cuellar",
             "platforms": {
@@ -6499,10 +6688,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
-        }
-         ,
+        },
         {
             "name": "Lloyd Doggett",
             "platforms": {
@@ -6514,10 +6703,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
-        }
-         ,
+        },
         {
             "name": "Veronica Escobar",
             "platforms": {
@@ -6529,9 +6718,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 12
             }
-        } ,
+        },
         {
             "name": "Pat Fallon",
             "platforms": {
@@ -6543,9 +6733,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 13
             }
-        } ,
+        },
         {
             "name": "Lizzie Fletcher",
             "platforms": {
@@ -6557,10 +6748,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 14
             }
-        }
-         ,
+        },
         {
             "name": "Sylvia R. Garcia",
             "platforms": {
@@ -6572,10 +6763,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 15
             }
-        }
-         ,
+        },
         {
             "name": "Louie Gohmert",
             "platforms": {
@@ -6587,10 +6778,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 16
             }
-        }
-         ,
+        },
         {
             "name": "Tony Gonzales",
             "platforms": {
@@ -6602,10 +6793,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 17
             }
-        }
-         ,
+        },
         {
             "name": "Vicente Gonzalez",
             "platforms": {
@@ -6616,10 +6807,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 18
             }
-        }
-         ,
+        },
         {
             "name": "Lance Gooden",
             "platforms": {
@@ -6630,9 +6821,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 19
             }
-        } ,
+        },
         {
             "name": "Kay Granger",
             "platforms": {
@@ -6643,9 +6835,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 20
             }
-        } ,
+        },
         {
             "name": "Al Green",
             "platforms": {
@@ -6657,9 +6850,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 21
             }
-        } ,
+        },
         {
             "name": "Sheila Jackson Lee",
             "platforms": {
@@ -6671,10 +6865,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 22
             }
-        }
-         ,
+        },
         {
             "name": "Ronny Jackson",
             "platforms": {
@@ -6686,10 +6880,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 23
             }
-        }
-         ,
+        },
         {
             "name": "Eddie Bernice Johnson",
             "platforms": {
@@ -6700,10 +6894,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 24
             }
-        }
-         ,
+        },
         {
             "name": "Michael T. McCaul",
             "platforms": {
@@ -6715,10 +6909,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 25
             }
-        }
-         ,
+        },
         {
             "name": "Troy E. Nehls",
             "platforms": {
@@ -6730,10 +6924,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 26
             }
-        }
-         ,
+        },
         {
             "name": "August Pfluger",
             "platforms": {
@@ -6745,10 +6939,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 27
             }
-        }
-         ,
+        },
         {
             "name": "Chip Roy",
             "platforms": {
@@ -6760,10 +6954,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 28
             }
-        }
-         ,
+        },
         {
             "name": "Pete Sessions",
             "platforms": {
@@ -6774,10 +6968,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 29
             }
-        }
-         ,
+        },
         {
             "name": "Van Taylor",
             "platforms": {
@@ -6789,10 +6983,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 30
             }
-        }
-         ,
+        },
         {
             "name": "Beth Van Duyne",
             "platforms": {
@@ -6804,10 +6998,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 31
             }
-        }
-         ,
+        },
         {
             "name": "Marc A. Veasey",
             "platforms": {
@@ -6819,10 +7013,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 32
             }
-        }
-         ,
+        },
         {
             "name": "Filemon Vela",
             "platforms": {
@@ -6834,10 +7028,10 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 33
             }
-        }
-         ,
+        },
         {
             "name": "Randy K. Weber Sr. ",
             "platforms": {
@@ -6849,10 +7043,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 34
             }
-        }
-         ,
+        },
         {
             "name": "Roger Williams",
             "platforms": {
@@ -6863,10 +7057,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 35
             }
-        }
-         ,
+        },
         {
             "name": "Ron Wright",
             "platforms": {
@@ -6878,10 +7072,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Texas",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 36
             }
-        }
-         ,
+        },
         {
             "name": "John R. Curtis",
             "platforms": {
@@ -6893,10 +7087,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Utah",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
-        }
-         ,
+        },
         {
             "name": "Blake D. Moore",
             "platforms": {
@@ -6908,10 +7102,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Utah",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
-        }
-         ,
+        },
         {
             "name": "Burgess Owens",
             "platforms": {
@@ -6923,10 +7117,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Utah",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
-        }
-         ,
+        },
         {
             "name": "Chris Stewart",
             "platforms": {
@@ -6938,10 +7132,10 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Utah",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
-        }
-         ,
+        },
         {
             "name": "Peter Welch",
             "platforms": {
@@ -6953,10 +7147,9 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Vermont",
-		        "chamber": "House"
+                "chamber": "House"
             }
-        }
-         ,
+        },
         {
             "name": "Stacey E. Plaskett",
             "platforms": {
@@ -6967,7 +7160,7 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virgin Islands",
-		        "chamber": "House"
+                "chamber": "House"
             }
         },
         {
@@ -6980,7 +7173,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -6994,7 +7188,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -7008,7 +7203,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -7022,7 +7218,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -7036,7 +7233,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -7050,7 +7248,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -7064,7 +7263,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -7078,7 +7278,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -7092,7 +7293,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -7106,7 +7308,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -7120,7 +7323,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 11
             }
         },
         {
@@ -7134,7 +7338,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -7148,7 +7353,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -7162,7 +7368,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -7176,7 +7383,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -7190,7 +7398,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -7203,7 +7412,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -7217,7 +7427,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -7231,7 +7442,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -7244,7 +7456,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 9
             }
         },
         {
@@ -7258,7 +7471,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Washington",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 10
             }
         },
         {
@@ -7271,7 +7485,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "West Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -7285,7 +7500,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "West Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -7299,7 +7515,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "West Virginia",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -7312,7 +7529,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 1
             }
         },
         {
@@ -7326,7 +7544,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 2
             }
         },
         {
@@ -7340,7 +7559,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 3
             }
         },
         {
@@ -7354,7 +7574,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 4
             }
         },
         {
@@ -7368,7 +7589,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 5
             }
         },
         {
@@ -7382,7 +7604,8 @@
             "metadata": {
                 "party": "Democratic",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 6
             }
         },
         {
@@ -7396,7 +7619,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 7
             }
         },
         {
@@ -7410,7 +7634,8 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wisconsin",
-		        "chamber": "House"
+                "chamber": "House",
+                "district": 8
             }
         },
         {
@@ -7424,7 +7649,7 @@
             "metadata": {
                 "party": "Republican",
                 "state": "Wyoming",
-		        "chamber": "House"
+                "chamber": "House"
             }
         }
     ]
