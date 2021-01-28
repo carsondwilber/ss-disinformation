@@ -9,7 +9,7 @@ import configparser
 def collect_hashtags_tweets(api, hashtags, operator, debug):
     partial_query = (' %s ' % operator).join(['#%s' % hashtag for hashtag in hashtags])
     query = '(%s) -filter:retweets' % partial_query
-    return [tweet for tweet in tweepy.Cursor(api.search, q=hashtag_phrase+' -filter:retweets', lang="en", tweet_mode='extended').items(10)]
+    return [tweet for tweet in tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(10)]
 
 def collect_users_tweets(api, usernames, operator, debug):
     partial_query = (' %s ' % operator).join(['from:%s' % username for username in usernames])
