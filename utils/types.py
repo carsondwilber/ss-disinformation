@@ -3,14 +3,17 @@ import traceback
 
 class strict(object):
     def __init__(self, dtype, value):
-        if type(value) is not dtype:
+        if type(value) is not dtype and value is not None:
             raise ValueError("When strict types are enabled, initial value must match type (%s)" %
                              traceback.extract_stack()[-3].line)
         self.dtype = dtype
         self.value = value
 
+    def __get__(self, instance, owner):
+        return self.value
+
     def __set__(self, instance, value):
-        assert type(value) is self.dtype
+        assert type(value) is self.dtype or value is None
         self.value = value
 
 

@@ -4,7 +4,22 @@ import re
 from utils.types import StrictTypes, _st
 
 
-def _configure(inst, path=None, config=None):
+def _add_trigger(inst, key, trigger):
+    if key not in inst.triggers:
+        inst.triggers[key] = []
+    inst.triggers[key].append(trigger)
+
+
+def _fire_triggers(inst, key, old_value, new_value):
+    if key in inst.triggers:
+        for trigger in inst.triggers[key]:
+            if type(trigger) is classmethod:
+                trigger.__get__(inst, inst)(key, old_value, new_value)
+            else:
+                trigger(key, old_value, new_value)
+
+
+def _validate(inst, path=None, config=None):
     parser = None
 
     if path is not None and config is not None:
@@ -15,7 +30,9 @@ def _configure(inst, path=None, config=None):
         raise ValueError("Invalid value for configuration provided to %s.%s: expected dictionary." % (
             inst.__module__, inst.__name__))
 
-    if path is not None:
+    if config is not None:
+        parser = config
+    else:  # if path is not None:
         parser = ConfigParser()
 
         try:
@@ -30,11 +47,15 @@ def _configure(inst, path=None, config=None):
             raise KeyError(
                 "Unknown configuration section %s provided to %s.%s." % (section, inst.__module__, inst.__name__))
 
-        for key, value in section.items():
+        for key, value in parser[section].items():
 
             if key not in inst._configurable[section]:
                 raise KeyError(
                     "Unknown configuration option %s.%s provided to %s.%s." % (section, key, inst.__module__, inst.__name__))
+
+            if section == 'default' and not hasattr(inst, key):
+                raise KeyError(
+                    "Unknown configuration option %s provided to %s.%s%s." % (key, inst.__module__, inst.__name__, ' in ' + path if path is not None else ''))
 
             meta = inst._configurable[section][key]
 
@@ -42,7 +63,7 @@ def _configure(inst, path=None, config=None):
                 dtype = meta['type']
 
                 try:
-                    if parser is not None:
+                    if type(parser) is ConfigParser:
                         if dtype == bool:
                             value = parser.getboolean(section, key)
                         elif dtype == int:
@@ -60,18 +81,39 @@ def _configure(inst, path=None, config=None):
                         raise ValueError("Invalid value for configuration option %s.%s provided to %s.%s%s: must match pattern %s" % (
                             section, key, inst.__module__, inst.__name__, ' in ' + path if path is not None else '', meta['regex']))
 
+
+def _configure(inst, path=None, config=None):
+    validated = _validate(inst, path, config)
+
+    to_trigger = {}
+
+    for section in validated:
+        for key in section:
+            old_value = None
+
             if section == 'default':
-                if not hasattr(inst, key):
-                    raise KeyError(
-                        "Unknown configuration option %s provided to %s.%s%s." % (key, inst.__module__, inst.__name__, ' in ' + path if path is not None else ''))
-
+                old_value = getattr(inst, key)
                 setattr(inst, key, value)
-
             else:
-                if section not in inst._config:
+                if section in inst._config:
+                    if key in inst._config[section]:
+                        old_value = inst._config[section][key]
+                else:
                     inst._config[section] = {}
 
                 inst._config[section][key] = value
+
+            if key in inst.triggers:
+                to_trigger[key] = (old_value, value)
+
+    for key in to_trigger:
+        _fire_triggers(inst, key, *to_trigger[key])
+
+
+class TriggerableConfiguration:
+    def __init__(self, configuration, triggers):
+        self.configuration = configuration
+        self.triggers = triggers
 
 
 class ClassConfigurable(StrictTypes):
@@ -82,26 +124,57 @@ class InstanceConfigurable(StrictTypes):
     pass
 
 
+class Configurable(InstanceConfigurable, ClassConfigurable, StrictTypes):
+    pass
+
+
 class _ClassConfigurableWatcher(_st):
-    configurable = []
+    class_configurable = []
 
     def __new__(cls, name, bases, dct):
+        is_configurable = (ClassConfigurable in bases and not InstanceConfigurable in bases) or Configurable in bases  # noqa
+
+        if is_configurable:
+            dct['_config'] = {}
+            dct['configure'] = _configure
+            dct['add_trigger'] = _add_trigger
+            dct['triggers'] = {}
+
+            if '_configurable' in dct:
+                value = dct['_configurable']
+                if type(value) == TriggerableConfiguration:
+                    dct['_configurable'] = value.configuration
+                    dct['triggers'] = value.triggers
+
         x = super().__new__(cls, name, bases, dct)
-        if len(x.__mro__) > 2 and not InstanceConfigurable in bases:
-            x._config = {}
-            x._configurable = {}
-            x.configure = _configure
-            cls.configurable.append(x)
+
+        if is_configurable:
+            cls.class_configurable.append(x)
+
         return x
+
+    def __setattr__(cls, name, value):
+        if name == '_configurable':
+            if type(value) == TriggerableConfiguration:
+                cls._configurable = value.configuration
+                cls.triggers = value.triggers
+            return
+
+        if name in cls._configurable['default']:
+            _validate(cls, config={'default': {name: value}})
+
+        old_value = getattr(cls, name)
+        super().__setattr__(name, value)
+        _fire_triggers(cls, name, old_value, value)
 
 
 class _InstanceConfigurableWatcher(_st):
-    configurable = []
+    instance_configurable = []
 
     def __new__(cls, name, bases, dct):
         x = super().__new__(cls, name, bases, dct)
-        if len(x.__mro__) > 2 and not ClassConfigurable in bases:
-            cls.configurable.append(x)
+        if (InstanceConfigurable in bases and not ClassConfigurable in bases) or Configurable in bases:
+            cls.instance_configurable.append(x)
         return x
 
 
@@ -116,25 +189,30 @@ class ClassConfigurable(StrictTypes, metaclass=_ClassConfigurableWatcher):
 class InstanceConfigurable(StrictTypes, metaclass=_InstanceConfigurableWatcher):
 
     def __init__(self):
-        if self in _InstanceConfigurableWatcher.configurable:
+        if self.__class__ in _InstanceConfigurableWatcher.instance_configurable:
             self._configurable = {}
             self._config = {}
+            self.triggers = {}
 
-    def configure(self, path):
-        if self in _InstanceConfigurableWatcher.configurable:
-            _configure(self, path)
+    def configure(self, path=None, config=None):
+        if self.__class__ in _InstanceConfigurableWatcher.instance_configurable:
+            _configure(self, path, config)
+
+    def add_trigger(self, key, trigger):
+        if self.__class__ in _InstanceConfigurableWatcher.instance_configurable:
+            _add_trigger(self, key, trigger)
 
 
-class Configurable(InstanceConfigurable, ClassConfigurable, StrictTypes, metaclass=_ConfigurableWatcher):
+class Configurable(ClassConfigurable, InstanceConfigurable, StrictTypes, metaclass=_ConfigurableWatcher):
     pass
 
 
 def configurable_classes():
-    return _ClassConfigurableWatcher.configurable
+    return _ClassConfigurableWatcher.class_configurable
 
 
 def configurable_instances():
-    return _InstanceConfigurableWatcher.configurable
+    return _InstanceConfigurableWatcher.instance_configurable
 
 
 def configurable():
