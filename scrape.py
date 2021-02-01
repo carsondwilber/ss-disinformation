@@ -7,12 +7,15 @@ import configparser
 
 
 def collect_hashtags_tweets(api, hashtags, operator, debug):
-    partial_query = (' %s ' % operator).join(['#%s' % hashtag for hashtag in hashtags])
+    partial_query = (' %s ' % operator).join(
+        ['#%s' % hashtag for hashtag in hashtags])
     query = '(%s) -filter:retweets' % partial_query
     return [tweet for tweet in tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(10)]
 
+
 def collect_users_tweets(api, usernames, operator, debug):
-    partial_query = (' %s ' % operator).join(['from:%s' % username for username in usernames])
+    partial_query = (' %s ' % operator).join(
+        ['from:%s' % username for username in usernames])
     query = '(%s) -filter:retweets' % partial_query
     return [tweet for tweet in tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(10)]
 
@@ -29,16 +32,16 @@ def initialize_api(consumer_key, consumer_secret, access_token, access_secret):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser("Collect data from Twitter using Tweepy library.")
-    parser.add_argument("--users", default=None, type=str, help='Twitter handles for users to collect Tweets from.')
-    parser.add_argument("--hashtags", default=None, type=str, help='Twitter hashtags in Tweets to collect.')
-    parser.add_argument("--operator", default='OR', type=str, choices=['OR', 'AND'], help='Operator to use for joining multiple items.')
-    parser.add_argument("--output", default=None, type=str, help='File path for where to save results.')
-    parser.add_argument("--debug", action='store_true', help='Print debug information to console.')
-    parser.add_argument("--key", default=None, type=str, help='Twitter authentication key.')
-    parser.add_argument("--secret", default=None, type=str, help='Twitter authentication secret.')
-    parser.add_argument("--token", default=None, type=str, help='Twitter API token.')
-    parser.add_argument("--token-secret", default=None, type=str, help='Twitter API token secret.')
+    parser = argparse.ArgumentParser("Collect data from Twitter using Tweepy library.")  # noqa
+    parser.add_argument("--users", default=None, type=str, help='Twitter handles for users to collect Tweets from.')  # noqa
+    parser.add_argument("--hashtags", default=None, type=str, help='Twitter hashtags in Tweets to collect.')  # noqa
+    parser.add_argument("--operator", default='OR', type=str, choices=['OR', 'AND'], help='Operator to use for joining multiple items.')  # noqa
+    parser.add_argument("--output", default=None, type=str, help='File path for where to save results.')  # noqa
+    parser.add_argument("--debug", action='store_true', help='Print debug information to console.')  # noqa
+    parser.add_argument("--key", default=None, type=str, help='Twitter authentication key.')  # noqa
+    parser.add_argument("--secret", default=None, type=str, help='Twitter authentication secret.')  # noqa
+    parser.add_argument("--token", default=None, type=str, help='Twitter API token.')  # noqa
+    parser.add_argument("--token-secret", default=None, type=str, help='Twitter API token secret.')  # noqa
     args = parser.parse_args()
 
     if (args.users is None and args.hashtags is None) or (args.users is not None and args.hashtags is not None):
@@ -47,7 +50,7 @@ if __name__ == '__main__':
         raise Exception("Cannot specify --operator AND with --users.")
 
     config = configparser.ConfigParser()
-    config.read("./config.ini")
+    config.read("./credentials.ini")
 
     consumer_key = None
     consumer_secret = None
@@ -73,19 +76,24 @@ if __name__ == '__main__':
     if args.token_secret is not None:
         access_secret = args.token_secret
 
-    api = initialize_api(consumer_key, consumer_secret, access_token, access_secret)
+    api = initialize_api(consumer_key, consumer_secret,
+                         access_token, access_secret)
 
     tweets = []
 
     if args.users is not None:
-        tweets = collect_users_tweets(api, args.users.split(','), args.operator, args.debug)
+        tweets = collect_users_tweets(
+            api, args.users.split(','), args.operator, args.debug)
     if args.hashtags is not None:
-        tweets = collect_hashtags_tweets(api, args.hashtags.split(','), args.operator, args.debug)
+        tweets = collect_hashtags_tweets(
+            api, args.hashtags.split(','), args.operator, args.debug)
 
     with open(args.output, 'w') as f:
         w = csv.writer(f)
 
-        w.writerow(['timestamp', 'tweet_text', 'username', 'all_hashtags', 'followers_count', 'location'])
+        w.writerow(['timestamp', 'tweet_text', 'username',
+                    'all_hashtags', 'followers_count', 'location'])
 
         for tweet in tweets:
-            w.writerow([tweet.created_at, tweet.full_text.replace('\n',' ').encode('utf-8'), tweet.user.screen_name.encode('utf-8'), [e['text'] for e in tweet._json['entities']['hashtags']], tweet.user.followers_count, tweet.user.location.encode('utf-8')])
+            w.writerow([tweet.created_at, tweet.full_text.replace('\n', ' ').encode('utf-8'), tweet.user.screen_name.encode('utf-8'),
+                        [e['text'] for e in tweet._json['entities']['hashtags']], tweet.user.followers_count, tweet.user.location.encode('utf-8')])

@@ -4,4 +4,5 @@
 /.vscode/
 /pyvenv.cfg
 /pip.ini
-config.ini
+credentials.ini
+*/__pycache__
