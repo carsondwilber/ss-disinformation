@@ -29,6 +29,7 @@ class Credential:
 
         format.validate(**details)
 
+        self.format = format
         self.platform = platform
         self.endpoint = endpoint
         self.details = details
