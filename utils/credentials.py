@@ -100,15 +100,19 @@ class CredentialFormat:
 
 
 class Credentials:
-    OAuth = CredentialFormat(
-        'OAuth',
+    OAuth = CredentialFormat('OAuth')
+
+    OAuthConsumer = CredentialFormat(
+        'OAuth Consumer',
+        pathname='consumer',
+        parent=OAuth,
         key={'type': str, 'regex': f'^{validation.regex.partial.urlb64}+$'},
         secret={'type': str, 'regex': f'^{validation.regex.partial.urlb64}+$'}
     )
 
-    OAuthBearer = CredentialFormat(
-        'OAuth Bearer',
-        pathname='bearer',
+    OAuthUser = CredentialFormat(
+        'OAuth User Context',
+        pathname='user',
         parent=OAuth,
         token={'type': str, 'regex': f'^{validation.regex.partial.urlb64}+$'},
         secret={'type': str, 'regex': f'^{validation.regex.partial.urlb64}+$'}
