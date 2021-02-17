@@ -62,7 +62,7 @@ class Logging(Configurable):
             },
             'key': {
                 'type': str,
-                'regex': '(num|hex)[0-9]{1,2}'
+                'regex': '^(num|hex)(0?[1-9]|[1-2][0-9]|3[0-2])$'
             }
         }
     }
