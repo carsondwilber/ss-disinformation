@@ -7,6 +7,7 @@ import configparser
 from utils.configuration import Configurable
 from utils.log import Logging
 from utils.hybrid import hybridmethod
+from utils.uuid import uuidv4
 import utils.validation as validation
 
 
@@ -130,17 +131,15 @@ class CredentialDomain:
         if name is not None:
             validation.validate_string(
                 name, 'credential name', regex=validation.regex.complete.kebabs, min_len=1, max_len=36)
+
             if name in self.credentials:
                 if credential != self.credentials[name]:
                     raise Exception("Cannot register multiple credentials of the same name for the same domain; %s already has credential '%s'." % (
                         self.domain, name))
         else:
-            data = secrets.token_hex(16)
-            while True:
-                name = '-'.join([data[:8], data[8:12], '4'+data[13:16],
-                                 secrets.choice('89ab')+data[17:20], data[20:]])
-                if name not in self.credentials:
-                    break
+            name = uuidv4()
+            while name in self.credentials:
+                name = uuidv4()
 
         if isinstance(credential, Credential):
             if len(properties) != 0 or len(details) != 0:
@@ -175,13 +174,15 @@ class CredentialManager:
         if name is not None:
             validation.validate_string(
                 name, 'credential name', regex=validation.regex.complete.kebabs, min_len=1, max_len=36)
+
+            if name in self.credentials:
+                if credential != self.credentials[name]:
+                    raise Exception(
+                        "Cannot register multiple credentials of the same name in the same manager; already have '%s'.)" % name)
         else:
-            data = secrets.token_hex(16)
-            while True:
-                name = '-'.join([data[:8], data[8:12], '4'+data[13:16],
-                                 secrets.choice('89ab')+data[17:20], data[20:]])
-                if name not in self.credentials:
-                    break
+            name = uuidv4()
+            while name in self.credentials:
+                name = uuidv4()
 
         if isinstance(credential, Credential):
             if len(properties) != 0 or len(details) != 0:
