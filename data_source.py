@@ -246,9 +246,9 @@ class DataSource(Logging, Configurable):
     @staticmethod
     def validate_data(data):
         for key in data:
-                if not key in ["name", "version", "references"]:
-                    raise Exception(
-                        "Unknown key in data: '%s'. Keys must be one of ['name', 'version', 'references']." % (key))
+            if not key in ["name", "version", "references"]:
+                raise Exception(
+                    "Unknown key in data: '%s'. Keys must be one of ['name', 'version', 'references']." % (key))
 
             if not "name" in data:
                 raise Exception("Source list must contain a 'name'.")
@@ -265,7 +265,8 @@ class DataSource(Logging, Configurable):
                 raise Exception("Source list name must be a string.")
 
             if not len(name) > 0:
-                raise Exception("Source list name must be at least 1 character long.")
+                raise Exception(
+                    "Source list name must be at least 1 character long.")
 
             version = data["version"]
 
@@ -282,7 +283,8 @@ class DataSource(Logging, Configurable):
 
             for i, item in enumerate(references):
                 if not isinstance(item, dict):
-                    raise Exception("Source list reference number %d must be a dict." % (i + 1))
+                    raise Exception(
+                        "Source list reference number %d must be a dict." % (i + 1))
 
     def __init__(self, source: str):
         try:
