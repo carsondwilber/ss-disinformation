@@ -43,3 +43,9 @@ class TwitterHarvester(Logging, Configurable):
             cred.details['key'], cred.details['secret'])
         self.api = tweepy.API(auth_handler=auth, wait_on_rate_limit=True)
         self._api_init = True
+
+    def collect_user_timeline(self, user, limit=3200):
+        if limit < 1 or limit > 3200:
+            raise Exception("Limit must be greater than 0 and less than 3200.")
+
+        return self.api.user_timeline(user, count=limit, tweet_mode="extended")
