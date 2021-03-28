@@ -10,7 +10,7 @@ class DataFilter:
     @staticmethod
     def _validate_condition(c):
         if not isinstance(c, dict):
-            raise Exception("Operator must be a dict.")
+            raise Exception("Condition must be a dict.")
 
         terminal = False
         for key in c:
@@ -197,6 +197,8 @@ class DataFilter:
     def __init__(self, json: dict = None, string: str = None):
         if string is not None and json is not None:
             raise Exception("May only pass a string or JSON object, not both.")
+        elif string is None and json is None:
+            raise Exception("Must pass a string or JSON object.")
 
         if string is not None:
             if not isinstance(string, str):
@@ -240,6 +242,94 @@ class DataFilter:
                 if self._apply(key, self.filter[key], item):
                     items.append(item)
         return items
+
+
+class DataSieve:
+    @staticmethod
+    def validate_sieve(s):
+        try:
+            if not isinstance(s, dict):
+                raise Exception("Top-level type must be a dict.")
+
+            if not len(s) > 0:
+                raise Exception(
+                    "Top-level dict must only contain one platform.")
+
+            for key in s:
+                if not isinstance(s[key], (str, list)):
+                    raise Exception(
+                        "Each platform must only a list of account labels or a string of an account label.")
+
+                if isinstance(s[key], list):
+                    for label in s[key]:
+                        if not isinstance(label, str):
+                            raise Exception(
+                                "Each account label must be a string.")
+        except Exception as e:
+            raise Exception("Failed to validate filter: %s" % (e)) from None
+
+    @staticmethod
+    def parse(string: str):
+        s = None
+
+        try:
+            if not isinstance(string, str):
+                raise Exception("Data sieve input must be a string.")
+
+            if not len(string) > 1:
+                raise Exception(
+                    "Data sieve input string must be at least 2 characters long.")
+
+            try:
+                s = json.loads(string)
+            except:
+                raise Exception(
+                    "Data sieve input string must be a valid JSON object.")
+
+            DataSieve.validate_sieve(s)
+        except Exception as e:
+            raise Exception("Failed to parse sieve: %s" % (e)) from None
+
+        return s
+
+    def __init__(self, string: str = None, json: str = None):
+        if string is not None and json is not None:
+            raise Exception("May only pass a string or JSON object, not both.")
+        elif string is None and json is None:
+            raise Exception("Must pass a string or JSON object.")
+
+        if string is not None:
+            if not isinstance(string, str):
+                raise Exception("Sieve string must be a string.")
+            self.sieve = DataSieve.parse(string)
+        elif json is not None:
+            DataSieve.validate_sieve(json)
+            self.sieve = json
+
+    def apply(self, data):
+        result = []
+        for item in data:
+            user = item.copy()
+
+            # Remove extra platform data from item
+            for platform in user["platforms"]:
+                if not platform in self.sieve.keys():
+                    del user["platforms"][platform]
+
+            for platform in user["platforms"]:
+                labels = [self.sieve[platform]]
+                if isinstance(self.sieve[platform], list):
+                    labels = self.sieve[platform]
+                for label in [label for label in user["platforms"][platform]]:
+                    if label not in labels:
+                        del user["platforms"][platform][label]
+                        if len(user["platforms"][platform]) == 0:
+                            del user["platforms"][platform]
+
+            if len(user["platforms"]) > 0:
+                result.append(user)
+
+        return result
 
 
 class DataSource(Logging, Configurable):
