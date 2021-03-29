@@ -1,20 +1,24 @@
 import os
 import sys
+
 import gensim
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
 
-model = gensim.models.KeyedVectors.load_word2vec_format('./model/GoogleNews-vectors-negative300.bin.gz', binary=True)  # noqa
+from utils.configuration import Configurable
+from utils.log import Logging
+
+model = gensim.models.KeyedVectors.load_word2vec_format('./data/models/GoogleNews-vectors-negative300.bin.gz', binary=True)  # noqa
 
 
-class AnalysisEntity:
+class PlotEntity:
     def __init__(self, x, y, label):
         self.x = x
         self.y = y
         self.label = label
 
 
-class Analysis(Configurable, Logging):
+class Analysis(Logging, Configurable):
     ''' TODO: add configurable defaults for plots and mean vector approach '''
 
     @classmethod
@@ -28,7 +32,7 @@ class Analysis(Configurable, Logging):
                 if valid_words == 1:
                     vector = model[word]
                 else:
-                    vector += model[word]
+                    vector = vector + model[word]
 
         if valid_words == 0:
             raise Exception("No valid words provided for mean vector.")
@@ -51,7 +55,7 @@ class Analysis(Configurable, Logging):
                 raise Exception("Coordinates must be numerical values.")
             if not isinstance(label, str):
                 raise Exception("Labels must be string values.")
-            entities.append(AnalysisEntity(xy[0], xy[1], label))
+            entities.append(PlotEntity(xy[0], xy[1], label))
 
         return entities
 
