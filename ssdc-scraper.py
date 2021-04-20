@@ -24,7 +24,17 @@ if __name__ == "__main__":
     parser.add_argument("--credential-name", type=str, default="twitter-ssdc-consumer", help="Credential configuration file to use.")  # noqa
     parser.add_argument("--option", type=str, action='append', help="Additional options to apply while performing action.")  # noqa
     parser.add_argument("--output", type=str, help="Output result to a single file. (Coming Soon: output different files for each source, entity, etc.)")  # noqa
+    parser.add_argument("-d", "--debug", action='store_true', help="Print debug output.")  # noqa
+    parser.add_argument("-W", "--warnings", action='store_false', help="Disregard warnings.")  # noqa
     args = parser.parse_args(sys.argv[1:])
+
+    if (args.output is None and not args.debug) and args.warnings:
+        raise Exception(
+            "You are not redirecting the result either to debug or to an output file. Aborting.")
+
+    if not len(args.source) > 0 and args.warnings:
+        raise Exception(
+            "Must specify at least one data source list. Aborting.")
 
     options = {}
     if args.option is not None:
@@ -45,9 +55,6 @@ if __name__ == "__main__":
                         valid = True
                         value = valid_options['actions'][args.action][name](
                             value)
-
-    if not len(args.source) > 0:
-        raise Exception("Must specify at least one data source list.")
 
     manager = CredentialManager()
     manager.load_credentials(path=args.credentials)
@@ -79,13 +86,21 @@ if __name__ == "__main__":
                             result = harvester.collect_user_timeline(
                                 user["platforms"]["Twitter"][label])
 
-    if result is not None and args.output is not None:
-        with open(args.output, 'w', encoding='utf-8') as f:
-            w = csv.writer(f)
+    if result is not None:
+        if args.output is not None:
+            with open(args.output, 'w', encoding='utf-8') as f:
+                w = csv.writer(f)
 
-            w.writerow(['timestamp', 'tweet_text', 'username',
-                        'all_hashtags', 'followers_count', 'location'])
+                w.writerow(['timestamp', 'tweet_text', 'username',
+                            'all_hashtags', 'followers_count', 'location'])
 
-            for tweet in result:
-                w.writerow([tweet.created_at, tweet.full_text.replace('\n', ' ').encode('utf-8'), tweet.user.screen_name.encode('utf-8'),
-                            [e['text'] for e in tweet._json['entities']['hashtags']], tweet.user.followers_count, tweet.user.location.encode('utf-8')])
+                for tweet in result:
+                    w.writerow([tweet.created_at, tweet.full_text.replace('\n', ' ').encode('utf-8'), tweet.user.screen_name.encode('utf-8'),
+                                [e['text'] for e in tweet._json['entities']['hashtags']], tweet.user.followers_count, tweet.user.location.encode('utf-8')])
+
+        if args.debug:
+            sample = result
+            if len(result) > 10:
+                sample = result[:5] + ["..."] + result[-5:]
+            for tweet in sample:
+                print(tweet)
