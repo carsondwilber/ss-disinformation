@@ -50,7 +50,7 @@ class Analysis(Logging, Configurable):
         coordinates = tsne_model.fit_transform(vectors)
 
         entities = []
-        for xy, l in zip(coordinates, labels):
+        for xy, label in zip(coordinates, labels):
             if not isinstance(xy[0], (int, float)):
                 raise Exception("Coordinates must be numerical values.")
             if not isinstance(label, str):
