@@ -3605,7 +3605,9 @@
         {
             "name": "Jackie Walorski",
             "platforms": {
-                "Twitter": "RepWalorski"
+                "Twitter": {
+                    "official": "RepWalorski"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3617,7 +3619,9 @@
         {
             "name": "Cynthia Axne",
             "platforms": {
-                "Twitter": "RepCindyAxne"
+                "Twitter": {
+                    "official": "RepCindyAxne"
+                }
             },
             "metadata": {
                 "party": "Democratic",
@@ -3629,7 +3633,9 @@
         {
             "name": "Randy Feenstra",
             "platforms": {
-                "Twitter": "RandyFeenstra"
+                "Twitter": {
+                    "official": "RandyFeenstra"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3641,7 +3647,9 @@
         {
             "name": "Ashley Hinson",
             "platforms": {
-                "Twitter": "RepAshleyHinson"
+                "Twitter": {
+                    "official": "RepAshleyHinson"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3653,7 +3661,9 @@
         {
             "name": "Mariannette Miller-Meeks",
             "platforms": {
-                "Twitter": "millermeeks"
+                "Twitter": {
+                    "official": "millermeeks"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3665,7 +3675,9 @@
         {
             "name": "Sharice Davids",
             "platforms": {
-                "Twitter": "RepDavids"
+                "Twitter": {
+                    "official": "RepDavids"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3677,7 +3689,9 @@
         {
             "name": "Ron Estes",
             "platforms": {
-                "Twitter": "RepRonEstes"
+                "Twitter": {
+                    "official": "RepRonEstes"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3689,7 +3703,9 @@
         {
             "name": "Jake LaTurner",
             "platforms": {
-                "Twitter": "JakeLaTurner"
+                "Twitter": {
+                    "official": "JakeLaTurner"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3701,7 +3717,9 @@
         {
             "name": "Tracey Mann",
             "platforms": {
-                "Twitter": "TraceyMannKS"
+                "Twitter": {
+                    "official": "TraceyMannKS"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3713,7 +3731,9 @@
         {
             "name": "Andy Barr",
             "platforms": {
-                "Twitter": "RepAndyBarr"
+                "Twitter": {
+                    "official": "RepAndyBarr"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3725,7 +3745,9 @@
         {
             "name": "James Comer",
             "platforms": {
-                "Twitter": "RepJamesComer"
+                "Twitter": {
+                    "official": "RepJamesComer"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3737,7 +3759,9 @@
         {
             "name": "Brett Guthrie",
             "platforms": {
-                "Twitter": "RepGuthrie"
+                "Twitter": {
+                    "official": "RepGuthrie"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3749,7 +3773,9 @@
         {
             "name": "Thomas Massie",
             "platforms": {
-                "Twitter": "RepThomasMassie"
+                "Twitter": {
+                    "official": "RepThomasMassie"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3761,7 +3787,9 @@
         {
             "name": "Harold Rogers",
             "platforms": {
-                "Twitter": "RepHalRogers"
+                "Twitter": {
+                    "official": "RepHalRogers"
+                }
             },
             "metadata": {
                 "party": "Republican",
@@ -3773,7 +3801,9 @@
         {
             "name": "John A. Yarmuth",
             "platforms": {
-                "Twitter": "RepJohnYarmuth"
+                "Twitter": {
+                    "official": "RepJohnYarmuth"
+                }
             },
             "metadata": {
                 "party": "Democratic",
@@ -3785,7 +3815,9 @@
         {
             "name": "Garret Graves",
             "platforms": {
-                "Twitter": "RepGarretGraves"
+                "Twitter": {
+                    "official": "RepGarretGraves"
+                }
             },
             "metadata": {
                 "party": "Republican",
